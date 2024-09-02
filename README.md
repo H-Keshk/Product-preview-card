@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/H-Keshk/Product-preview-card)
-- Live Site URL: [Add live site URL here](https://h-keshk.github.io/Product-preview-card/)
+- Solution URL: [](https://github.com/H-Keshk/Product-preview-card)
+- Live Site URL: [](https://h-keshk.github.io/Product-preview-card/)
 
 ## My process
 
